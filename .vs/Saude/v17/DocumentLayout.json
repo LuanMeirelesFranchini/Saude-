@@ -1,0 +1,892 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\menu_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\menu_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\menu_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\menu_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\formulario_relatorio_clientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\formulario_relatorio_clientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\formulario_relatorio_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\formulario_relatorio_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\relatorios\\relatorio_produto.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\relatorios\\relatorio_produto.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\relatorios\\relatorio_fornecedor.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\relatorios\\relatorio_fornecedor.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\relatorios\\relatorio_cliente.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\relatorios\\relatorio_cliente.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\telagerencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\telagerencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\tela_cadastro_administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\tela_cadastro_administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\tela_cadastro_administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\tela_cadastro_administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\tela_login_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\tela_login_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\tela_login_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\tela_login_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\telaadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\telaadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\telaadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\telaadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\listar_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\listar_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\listar_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\listar_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\listar_fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\listar_fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\listarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\listarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\listarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\listarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\listar_fornecedor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\listar_fornecedor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\listar_produto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\listar_produto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\listar_fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\listar_fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\telacadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\telacadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\tela_cadastro_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\tela_cadastro_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\tela_cadastro_fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\tela_cadastro_fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\pesquisar_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\pesquisar_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\pesquisar_fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\pesquisar_fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\pesquisacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\pesquisacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\consultar_usuario_cadastrados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\consultar_usuario_cadastrados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\consultar_usuario_cadastrados.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\consultar_usuario_cadastrados.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\consultar_usuario_cadastrados.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\consultar_usuario_cadastrados.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\tela_login_usuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\tela_login_usuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\tela_login_usuario.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\tela_login_usuario.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\telacadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\telacadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\telagerencial.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\telagerencial.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\telagerencial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\telagerencial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\tela_cadastro_administrador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\tela_cadastro_administrador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\tela_cadastro_administrador.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\tela_cadastro_administrador.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\telaadministrador.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\telaadministrador.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\telaadministrador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\telaadministrador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\consultar_usuario_cadastrados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\consultar_usuario_cadastrados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Saude||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\relatorio_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\relatorio_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\registro_fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\registro_fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\formulario_relatorio_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\formulario_relatorio_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\relatorio_produto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\relatorio_produto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\registro_fornecedor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\registro_fornecedor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|solutionrelative:saude\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F805F8A9-0204-414A-82A4-A1BE2537EFC9}|Saude\\Saude.csproj|c:\\users\\luan.m.franchini\\downloads\\vida-20250818t161008z-1-001\\vida\\vida\\saude\\saude\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|f8d6553f-f752-4dbf-acb6-f291b744a792"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Relatorio_Produto.rdlc",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Relatorios\\Relatorio_Produto.rdlc",
+              "RelativeDocumentMoniker": "Saude\\Relatorios\\Relatorio_Produto.rdlc",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Relatorios\\Relatorio_Produto.rdlc",
+              "RelativeToolTip": "Saude\\Relatorios\\Relatorio_Produto.rdlc",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-08-20T20:10:46.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Relatorio_Fornecedor.rdlc",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Relatorios\\Relatorio_Fornecedor.rdlc",
+              "RelativeDocumentMoniker": "Saude\\Relatorios\\Relatorio_Fornecedor.rdlc",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Relatorios\\Relatorio_Fornecedor.rdlc",
+              "RelativeToolTip": "Saude\\Relatorios\\Relatorio_Fornecedor.rdlc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-08-20T20:10:45.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TelaGerencial.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\TelaGerencial.cs",
+              "RelativeDocumentMoniker": "Saude\\TelaGerencial.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\TelaGerencial.cs [Design]",
+              "RelativeToolTip": "Saude\\TelaGerencial.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:12:28.076Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Form1.cs",
+              "RelativeDocumentMoniker": "Saude\\Form1.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Form1.cs [Design]",
+              "RelativeToolTip": "Saude\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:11:07.801Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu_Principal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Menu_Principal.cs",
+              "RelativeDocumentMoniker": "Saude\\Menu_Principal.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Menu_Principal.cs [Design]",
+              "RelativeToolTip": "Saude\\Menu_Principal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:22:41.492Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu_Principal.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Menu_Principal.cs",
+              "RelativeDocumentMoniker": "Saude\\Menu_Principal.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Menu_Principal.cs",
+              "RelativeToolTip": "Saude\\Menu_Principal.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:19:19.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Formulario_Relatorio_Clientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Formulario_Relatorio_Clientes.cs",
+              "RelativeDocumentMoniker": "Saude\\Formulario_Relatorio_Clientes.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Formulario_Relatorio_Clientes.cs [Design]",
+              "RelativeToolTip": "Saude\\Formulario_Relatorio_Clientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:29:38.638Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Formulario_Relatorio_Clientes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Formulario_Relatorio_Clientes.Designer.cs",
+              "RelativeDocumentMoniker": "Saude\\Formulario_Relatorio_Clientes.Designer.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Formulario_Relatorio_Clientes.Designer.cs",
+              "RelativeToolTip": "Saude\\Formulario_Relatorio_Clientes.Designer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwFYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:17:04.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tela_Cadastro_Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Tela_Cadastro_Administrador.cs",
+              "RelativeDocumentMoniker": "Saude\\Tela_Cadastro_Administrador.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Tela_Cadastro_Administrador.cs",
+              "RelativeToolTip": "Saude\\Tela_Cadastro_Administrador.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAqwEgAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:21:36.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tela_Login_Usuario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Tela_Login_Usuario.cs",
+              "RelativeDocumentMoniker": "Saude\\Tela_Login_Usuario.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Tela_Login_Usuario.cs [Design]",
+              "RelativeToolTip": "Saude\\Tela_Login_Usuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:12:44.142Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TelaAdministrador.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\TelaAdministrador.cs",
+              "RelativeDocumentMoniker": "Saude\\TelaAdministrador.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\TelaAdministrador.cs [Design]",
+              "RelativeToolTip": "Saude\\TelaAdministrador.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:10:54.745Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Relatorio_Cliente.rdlc",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Relatorios\\Relatorio_Cliente.rdlc",
+              "RelativeDocumentMoniker": "Saude\\Relatorios\\Relatorio_Cliente.rdlc",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Relatorios\\Relatorio_Cliente.rdlc",
+              "RelativeToolTip": "Saude\\Relatorios\\Relatorio_Cliente.rdlc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-08-20T18:26:53.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tela_Cadastro_Administrador.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Tela_Cadastro_Administrador.cs",
+              "RelativeDocumentMoniker": "Saude\\Tela_Cadastro_Administrador.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Tela_Cadastro_Administrador.cs [Design]",
+              "RelativeToolTip": "Saude\\Tela_Cadastro_Administrador.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:11:14.916Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Tela_Login_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Tela_Login_Usuario.cs",
+              "RelativeDocumentMoniker": "Saude\\Tela_Login_Usuario.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Tela_Login_Usuario.cs",
+              "RelativeToolTip": "Saude\\Tela_Login_Usuario.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:30:18.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ListarCliente.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\ListarCliente.cs",
+              "RelativeDocumentMoniker": "Saude\\ListarCliente.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\ListarCliente.cs",
+              "RelativeToolTip": "Saude\\ListarCliente.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAUwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:21:02.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Listar_Produto.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Listar_Produto.cs",
+              "RelativeDocumentMoniker": "Saude\\Listar_Produto.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Listar_Produto.cs",
+              "RelativeToolTip": "Saude\\Listar_Produto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:28:32.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TelaAdministrador.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\TelaAdministrador.cs",
+              "RelativeDocumentMoniker": "Saude\\TelaAdministrador.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\TelaAdministrador.cs",
+              "RelativeToolTip": "Saude\\TelaAdministrador.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T19:56:01.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Listar_Fornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Listar_Fornecedor.cs",
+              "RelativeDocumentMoniker": "Saude\\Listar_Fornecedor.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Listar_Fornecedor.cs",
+              "RelativeToolTip": "Saude\\Listar_Fornecedor.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAUwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:07:44.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Listar_Produto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Listar_Produto.cs",
+              "RelativeDocumentMoniker": "Saude\\Listar_Produto.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Listar_Produto.cs [Design]",
+              "RelativeToolTip": "Saude\\Listar_Produto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T19:07:28.817Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Listar_Fornecedor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Listar_Fornecedor.cs",
+              "RelativeDocumentMoniker": "Saude\\Listar_Fornecedor.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Listar_Fornecedor.cs [Design]",
+              "RelativeToolTip": "Saude\\Listar_Fornecedor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T19:12:22.892Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ListarCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\ListarCliente.cs",
+              "RelativeDocumentMoniker": "Saude\\ListarCliente.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\ListarCliente.cs [Design]",
+              "RelativeToolTip": "Saude\\ListarCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T19:16:13.878Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Listar_Fornecedor.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Listar_Fornecedor.Designer.cs",
+              "RelativeDocumentMoniker": "Saude\\Listar_Fornecedor.Designer.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Listar_Fornecedor.Designer.cs",
+              "RelativeToolTip": "Saude\\Listar_Fornecedor.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T19:10:20.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Listar_Produto.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Listar_Produto.Designer.cs",
+              "RelativeDocumentMoniker": "Saude\\Listar_Produto.Designer.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Listar_Produto.Designer.cs",
+              "RelativeToolTip": "Saude\\Listar_Produto.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T19:13:21.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PesquisaCliente.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\PesquisaCliente.cs",
+              "RelativeDocumentMoniker": "Saude\\PesquisaCliente.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\PesquisaCliente.cs",
+              "RelativeToolTip": "Saude\\PesquisaCliente.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADgvyoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:29:40.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Pesquisar_Fornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Pesquisar_Fornecedor.cs",
+              "RelativeDocumentMoniker": "Saude\\Pesquisar_Fornecedor.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Pesquisar_Fornecedor.cs",
+              "RelativeToolTip": "Saude\\Pesquisar_Fornecedor.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADgvzcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:29:57.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Pesquisar_Produto.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Pesquisar_Produto.cs",
+              "RelativeDocumentMoniker": "Saude\\Pesquisar_Produto.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Pesquisar_Produto.cs",
+              "RelativeToolTip": "Saude\\Pesquisar_Produto.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADgvzgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:30:13.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Tela_Cadastro_Fornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Tela_Cadastro_Fornecedor.cs",
+              "RelativeDocumentMoniker": "Saude\\Tela_Cadastro_Fornecedor.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Tela_Cadastro_Fornecedor.cs",
+              "RelativeToolTip": "Saude\\Tela_Cadastro_Fornecedor.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAADgv5gAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:30:28.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TelaCadastroCliente.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\TelaCadastroCliente.cs",
+              "RelativeDocumentMoniker": "Saude\\TelaCadastroCliente.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\TelaCadastroCliente.cs",
+              "RelativeToolTip": "Saude\\TelaCadastroCliente.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAArwCAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:30:54.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Consultar_Usuario_Cadastrados.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Consultar_Usuario_Cadastrados.cs",
+              "RelativeDocumentMoniker": "Saude\\Consultar_Usuario_Cadastrados.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Consultar_Usuario_Cadastrados.cs",
+              "RelativeToolTip": "Saude\\Consultar_Usuario_Cadastrados.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAWwB0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:04:02.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Tela_Cadastro_Produto.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Tela_Cadastro_Produto.cs",
+              "RelativeDocumentMoniker": "Saude\\Tela_Cadastro_Produto.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Tela_Cadastro_Produto.cs",
+              "RelativeToolTip": "Saude\\Tela_Cadastro_Produto.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAADgv4YAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:30:41.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Consultar_Usuario_Cadastrados.resx",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Consultar_Usuario_Cadastrados.resx",
+              "RelativeDocumentMoniker": "Saude\\Consultar_Usuario_Cadastrados.resx",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Consultar_Usuario_Cadastrados.resx",
+              "RelativeToolTip": "Saude\\Consultar_Usuario_Cadastrados.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-20T18:07:09.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Consultar_Usuario_Cadastrados.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Consultar_Usuario_Cadastrados.Designer.cs",
+              "RelativeDocumentMoniker": "Saude\\Consultar_Usuario_Cadastrados.Designer.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Consultar_Usuario_Cadastrados.Designer.cs",
+              "RelativeToolTip": "Saude\\Consultar_Usuario_Cadastrados.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:07:10.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Tela_Cadastro_Administrador.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Tela_Cadastro_Administrador.Designer.cs",
+              "RelativeDocumentMoniker": "Saude\\Tela_Cadastro_Administrador.Designer.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Tela_Cadastro_Administrador.Designer.cs",
+              "RelativeToolTip": "Saude\\Tela_Cadastro_Administrador.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:11:29.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TelaGerencial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\TelaGerencial.Designer.cs",
+              "RelativeDocumentMoniker": "Saude\\TelaGerencial.Designer.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\TelaGerencial.Designer.cs",
+              "RelativeToolTip": "Saude\\TelaGerencial.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:12:32.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TelaGerencial.resx",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\TelaGerencial.resx",
+              "RelativeDocumentMoniker": "Saude\\TelaGerencial.resx",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\TelaGerencial.resx",
+              "RelativeToolTip": "Saude\\TelaGerencial.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-20T18:12:34.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TelaCadastroCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\TelaCadastroCliente.cs",
+              "RelativeDocumentMoniker": "Saude\\TelaCadastroCliente.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\TelaCadastroCliente.cs [Design]",
+              "RelativeToolTip": "Saude\\TelaCadastroCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:12:39.109Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Tela_Login_Usuario.resx",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Tela_Login_Usuario.resx",
+              "RelativeDocumentMoniker": "Saude\\Tela_Login_Usuario.resx",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Tela_Login_Usuario.resx",
+              "RelativeToolTip": "Saude\\Tela_Login_Usuario.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-20T18:12:47.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Tela_Login_Usuario.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Tela_Login_Usuario.Designer.cs",
+              "RelativeDocumentMoniker": "Saude\\Tela_Login_Usuario.Designer.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Tela_Login_Usuario.Designer.cs",
+              "RelativeToolTip": "Saude\\Tela_Login_Usuario.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:12:48.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Tela_Cadastro_Administrador.resx",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Tela_Cadastro_Administrador.resx",
+              "RelativeDocumentMoniker": "Saude\\Tela_Cadastro_Administrador.resx",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Tela_Cadastro_Administrador.resx",
+              "RelativeToolTip": "Saude\\Tela_Cadastro_Administrador.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-20T18:11:35.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TelaAdministrador.resx",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\TelaAdministrador.resx",
+              "RelativeDocumentMoniker": "Saude\\TelaAdministrador.resx",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\TelaAdministrador.resx",
+              "RelativeToolTip": "Saude\\TelaAdministrador.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-20T18:11:03.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TelaAdministrador.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\TelaAdministrador.Designer.cs",
+              "RelativeDocumentMoniker": "Saude\\TelaAdministrador.Designer.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\TelaAdministrador.Designer.cs",
+              "RelativeToolTip": "Saude\\TelaAdministrador.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:10:58.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Consultar_Usuario_Cadastrados.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Consultar_Usuario_Cadastrados.cs",
+              "RelativeDocumentMoniker": "Saude\\Consultar_Usuario_Cadastrados.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Consultar_Usuario_Cadastrados.cs [Design]",
+              "RelativeToolTip": "Saude\\Consultar_Usuario_Cadastrados.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:07:07.161Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Program.cs",
+              "RelativeDocumentMoniker": "Saude\\Program.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Program.cs",
+              "RelativeToolTip": "Saude\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:22:42.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Relatorio_Produto.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Relatorio_Produto.cs",
+              "RelativeDocumentMoniker": "Saude\\Relatorio_Produto.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Relatorio_Produto.cs",
+              "RelativeToolTip": "Saude\\Relatorio_Produto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAASwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:20:54.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Registro_Fornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Registro_Fornecedor.cs",
+              "RelativeDocumentMoniker": "Saude\\Registro_Fornecedor.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Registro_Fornecedor.cs",
+              "RelativeToolTip": "Saude\\Registro_Fornecedor.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAASwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:20:50.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Formulario_Relatorio_Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Formulario_Relatorio_Clientes.cs",
+              "RelativeDocumentMoniker": "Saude\\Formulario_Relatorio_Clientes.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Formulario_Relatorio_Clientes.cs",
+              "RelativeToolTip": "Saude\\Formulario_Relatorio_Clientes.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAjwBYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:20:38.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Relatorio_Produto.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Relatorio_Produto.Designer.cs",
+              "RelativeDocumentMoniker": "Saude\\Relatorio_Produto.Designer.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Relatorio_Produto.Designer.cs",
+              "RelativeToolTip": "Saude\\Relatorio_Produto.Designer.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAASwE8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:19:28.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Registro_Fornecedor.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Registro_Fornecedor.Designer.cs",
+              "RelativeDocumentMoniker": "Saude\\Registro_Fornecedor.Designer.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Registro_Fornecedor.Designer.cs",
+              "RelativeToolTip": "Saude\\Registro_Fornecedor.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:16:49.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Saude\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Form1.Designer.cs",
+              "RelativeToolTip": "Saude\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:31:39.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\App.config",
+              "RelativeDocumentMoniker": "Saude\\App.config",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\App.config",
+              "RelativeToolTip": "Saude\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAADTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-20T14:51:16.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Saude\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Saude\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:39:42.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Saude",
+              "DocumentMoniker": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Saude.csproj",
+              "RelativeDocumentMoniker": "Saude\\Saude.csproj",
+              "ToolTip": "C:\\Users\\luan.m.franchini\\Downloads\\Vida-20250818T161008Z-1-001\\Vida\\Vida\\Saude\\Saude\\Saude.csproj",
+              "RelativeToolTip": "Saude\\Saude.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-20T17:28:30.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

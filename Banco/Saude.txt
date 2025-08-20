@@ -1,0 +1,80 @@
+Create Database Saude;
+
+
+use Saude;
+
+CREATE TABLE tblFunc (
+ Cod_Func INT PRIMARY KEY NOT NULL,
+
+ Nome VARCHAR(40),	 
+ Senha VARCHAR(4)
+);
+
+
+CREATE TABLE tblClientes (
+
+ codCli INT PRIMARY KEY NOT NULL,
+
+ cli_nome VARCHAR(40),
+
+ cli_cpf VARCHAR(40),
+
+ cli_rg VARCHAR(40),
+ cli_telefone VARCHAR(40),
+    
+ cli_celular VARCHAR(40),
+    
+ cli_rua VARCHAR(80),
+    
+ cli_cep VARCHAR(40),
+    
+ cli_bairro VARCHAR(60),
+    
+ cli_cidade VARCHAR(60),
+    
+ cli_estado VARCHAR(35),
+    
+ cli_email VARCHAR(70),
+    
+ cli_sexo VARCHAR(40)
+);
+
+
+
+CREATE TABLE tblFornecedor (
+    
+ codForne INT PRIMARY KEY NOT NULL,
+    
+ Forne_Nome VARCHAR(50),
+    
+ Forne_Cnpj VARCHAR(60),
+    
+ Forne_Telefone VARCHAR(50),
+    
+ Forne_Celular VARCHAR(50),
+    
+ Forne_Rua VARCHAR(40),
+    
+ Forne_Cep VARCHAR(50),
+    
+ Forne_Bairro VARCHAR(50),
+    
+ Forne_Cidade VARCHAR(50),
+    
+ Forne_Estado VARCHAR(50),
+    
+ Forne_Email VARCHAR(50)
+);
+
+
+
+CREATE TABLE tblProduto (
+    
+  Cod_Produto INT PRIMARY KEY NOT NULL,
+    
+  Pro_Nome VARCHAR(50),
+    
+  Pro_Preco VARCHAR(50),
+    
+  Pro_Date VARCHAR(50)
+);
